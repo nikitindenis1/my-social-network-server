@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://denis:64212222@crm-hke85.mongodb.net/Social?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken6421secret"
+}
