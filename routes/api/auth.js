@@ -35,6 +35,7 @@ router.post("/login", async (req, res) => {
     let user = await User.findOne({
       $or: [{ username: username }, { email: username }],
     });
+    console.log(user)
     if (!user) {
       return res.send(failureBody("Invalid username or password"));
     }
