@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.656.0",
+    "aws-sdk": "^2.814.0",
     "backendless": "^5.8.10",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.21.0",
